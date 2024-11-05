@@ -15,7 +15,7 @@ function Project() {
      
         <div className="project-box">
         <ul className="tech-stack">
-        <li>Html</li>
+        <li>Python</li>
         <li>Css</li>
         <li>Java Script</li>
         <li>Php</li>
@@ -23,11 +23,21 @@ function Project() {
         <li>Reactjs</li>
         <li>Nodejs</li>
         <li>C</li>
-        <li>Python</li>
+        <li>C++</li>
         <li>java</li>
         <li>Mysql</li> 
         <li>Git</li> 
+        <li>Bootstrap</li>
+        <li>Material UI</li>
+        <li>Linux</li>
+        <li>Postgres</li>
+        <li>Wordpress</li>
+        <li>React Native</li>
+        <li>Flutter</li>
+        <li>npm</li>
+        <li>Wireshark</li>
 
+        <li>Html</li>
 
        </ul>
         </div>
@@ -41,7 +51,7 @@ function Project() {
 							<a
               style={{
                 margin: "3px"}}
-								href="mailto:takwa5laffet@gmail.com"
+								href="mailto:takwa.laffet@esprit.tn"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour home-social-icons">
